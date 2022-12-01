@@ -1,0 +1,3 @@
+[submodule "hd-idle"]
+	path = hd-idle
+	url = https://github.com/benengele/hd-idle.git
